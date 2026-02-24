@@ -1,18 +1,156 @@
 ---
-title: "Quarto Website Template"
-bibliography: references.bib
+title: "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg"
+subtitle: "Stationskirche auf der Wallfahrt nach Altötting"
+author: "Dr. Michael Zauner"
 format:
   html:
     toc: true
-    toc-location: left
-    lightbox: true
+    toc-depth: 3
+---
+
+## Einführung
+
+Die Wallfahrt ist älter als das Christentum. Bereits im Alten Bund war das Pilgern zu heiligen Stätten üblich. Viele Psalmen waren ursprünglich Wallfahrtslieder. Auch andere Religionen kennen die Pilgertradition.
+
+Mehr als die Hälfte aller Wallfahrten im Bistum Passau sind der Gottesmutter geweiht. Die berühmteste ist die Wallfahrt nach Altötting (seit 1489). Weitere bedeutende Orte sind Kößlarn (1364), Niedergottsau (1400) und St. Nikola (vor 1450).
+
+Die Blütezeit der Marienwallfahrten war die Gegenreformation (17. Jahrhundert). In diese Epoche fällt auch der Bau der Kirche von Atzberg im Jahr 1680.
 
 ---
 
-This is a Quarto website.
+## Geschichtlicher Hintergrund
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Entlang uralter Pilgerwege aus dem Rottal nach Altötting stehen zahlreiche Kapellen. Atzberg war Rastplatz und zugleich eigenes Wallfahrtsziel.
 
-```{r}
-1 + 1
-```
+![Gemälde von 1754 mit Klause und tiefer gelegenem Fußweg](images/atzberg_gemaelde_1754.jpg)
+
+*Gemälde aus dem Jahr 1754 (seit 1980 verschollen).*
+
+![Ansicht von Süd-Ost mit Kirche und Mesnerhaus](images/atzberg_ansicht_suedost.jpg)
+
+*Wallfahrtskirche mit Mesnerhaus, Blickrichtung Süd-Ost.*
+
+Der Name Atzberg geht vermutlich auf einen Siedler namens Azo zurück. Die Ritter „de Arzberg“ erscheinen im 12. Jahrhundert in Urkunden.
+
+---
+
+## Einsiedelei und Mesnerhaus
+
+1643 wurde eine hölzerne Einsiedelei errichtet – das sogenannte „Mieskirchlein“.
+
+![Mesnerhaus mit Kirche, 2018](images/mesnerhaus_2018_sued.jpg)
+
+Nach dem Tod des Einsiedlers Georg Sennhuber (1693) folgten weitere Eremiten bis zur Säkularisation 1803.
+
+Seit 1984 gehört das Mesnerhaus der Familie Peindl, die es denkmalgerecht renovierte.
+
+### Balkonsymbole
+
+![Christliche Symbole am Holzbalkon](images/mesnerhaus_balkon_symbole.jpg)
+
+- Tulpe – Offenheit für die Frohbotschaft  
+- Kreis – Ewigkeit Gottes  
+- Drei – Dreifaltigkeit  
+- Lange Reihe – Ewigkeit der Schöpfung  
+
+---
+
+## Die Wallfahrtskirche (Baujahr 1680)
+
+![Bauurkunde 1680](images/bauurkunde_1680.jpg)
+
+Der Bau ist durch eine Stiftungsurkunde belegt. Bauherr waren die Herren von Wening-Ingenheim auf Hirschhorn.
+
+### Architektur
+
+![Ostfassade](images/ostfassade.jpg)
+
+Die reich gegliederte Ostfassade besitzt:
+
+- gesprengten Giebel
+- barocke Fensternischen
+- ehemals Figuren von St. Georg und St. Rochus
+
+Die Kirche misst:
+- Länge: 19,5 m  
+- Breite: 15,4 m  
+- Höhe: 6,6 m  
+
+---
+
+## Innenraum und Ausstattung
+
+![Blick auf Haupt- und Seitenaltäre](images/innenraum_altare.jpg)
+
+Die Ausstattung stammt vollständig aus der Erbauungszeit.
+
+### Hauptaltar
+
+![Pietà im Hochaltar](images/pietra_hauptaltar.jpg)
+
+Die Pietà bildet das Zentrum. Sieben Schwerter symbolisieren die sieben Schmerzen Mariens.
+
+### Kruzifix
+
+![Kruzifix mit realistischer Nagelung](images/kruzifix_realistische_nagelung.jpg)
+
+Bemerkenswert ist die realistische Nagelung durch die Hände – eine seltene Darstellung.
+
+### Empore
+
+![Empore an der Ostseite](images/empore_ostseite.jpg)
+
+Die Empore ruht auf Rundstützen und beherbergt eine Orgel mit fünf Registern.
+
+---
+
+## Votivbilder
+
+![Votivbild Brand Kranzberg 1888](images/votivbild_kranzberg_1888.jpg)
+
+Zahlreiche großformatige Votivbilder bezeugen die tiefe Frömmigkeit der Bevölkerung.
+
+Ein weiteres Motiv: Dank für Heimkehr aus dem Krieg 1870/71.
+
+---
+
+## Figuren und Details
+
+![Heiliger Sebastian](images/heiliger_sebastian.jpg)
+
+Die Figur des hl. Sebastian steht an der Südwand.
+
+Das Marmorpflaster stammt aus der Erbauungszeit.
+
+---
+
+## Liturgie und Wallfahrt
+
+![Gottesdienst in Atzberg](images/gottesdienst_2025.jpg)
+
+Regelmäßige Gottesdienste fanden vom „Schmerzhaften Freitag“ bis „Maria Opferung“ statt.
+
+Zum Patrozinium Mariä Himmelfahrt feiert bis heute der Pfarrer von Hirschhorn den Festgottesdienst.
+
+---
+
+## Pilgerstempel
+
+![Pilgerstempel](images/pilgerstempel.jpg)
+
+Seit 2016 gibt es einen offiziellen Pilgerstempel.
+
+---
+
+## Literatur und Quellen
+
+1. Wulzinger, Emil (1878)  
+2. Karlinger, Hans (1923)  
+3. Straßner, Johann Baptist (1893)  
+4. Spirkner, Bartholomäus (1907)  
+5. Mader, Johann Ev. (1893)  
+6. Visitationsberichte der Diözese Passau  
+7. Peindl, Josef & Elisabeth (2018)  
+8. Haller, Jörg (2007)  
+9. Zauner, Michael (1997)  
+10. u.a.
