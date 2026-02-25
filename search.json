@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "Describe how people can contribute to this project"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "license.html#license-type",
+    "href": "license.html#license-type",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
     "objectID": "atzberg_wallfahrt.html",
     "href": "atzberg_wallfahrt.html",
     "title": "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg",
@@ -18,7 +46,7 @@
     "href": "atzberg_wallfahrt.html#geschichtlicher-hintergrund",
     "title": "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg",
     "section": "Geschichtlicher Hintergrund",
-    "text": "Geschichtlicher Hintergrund\nEntlang uralter Pilgerwege aus dem Rottal nach Altötting stehen zahlreiche Kapellen. Atzberg war Rastplatz und zugleich eigenes Wallfahrtsziel.\n\n\n\nGemälde von 1754 mit Klause und tiefer gelegenem Fußweg\n\n\nGemälde aus dem Jahr 1754 (seit 1980 verschollen).\n\n\n\nAnsicht von Süd-Ost mit Kirche und Mesnerhaus\n\n\nWallfahrtskirche mit Mesnerhaus, Blickrichtung Süd-Ost.\nDer Name Atzberg geht vermutlich auf einen Siedler namens Azo zurück. Die Ritter „de Arzberg“ erscheinen im 12. Jahrhundert in Urkunden."
+    "text": "Geschichtlicher Hintergrund\nEntlang uralter Pilgerwege aus dem Rottal nach Altötting stehen zahlreiche Kapellen. Atzberg war Rastplatz und zugleich eigenes Wallfahrtsziel.\n\n\n\nGemälde von 1754 mit Klause und tiefer gelegenem Fußweg (seit 1980 verschollen)\n\n\n\n\n\nAnsicht von Süd-Ost mit Kirche und Mesnerhaus\n\n\nDer Name Atzberg geht vermutlich auf einen Siedler namens Azo zurück. Die Ritter „de Arzberg“ erscheinen im 12. Jahrhundert in Urkunden."
   },
   {
     "objectID": "atzberg_wallfahrt.html#einsiedelei-und-mesnerhaus",
@@ -75,33 +103,5 @@
     "title": "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg",
     "section": "Literatur und Quellen",
     "text": "Literatur und Quellen\n\nWulzinger, Emil (1878)\n\nKarlinger, Hans (1923)\n\nStraßner, Johann Baptist (1893)\n\nSpirkner, Bartholomäus (1907)\n\nMader, Johann Ev. (1893)\n\nVisitationsberichte der Diözese Passau\n\nPeindl, Josef & Elisabeth (2018)\n\nHaller, Jörg (2007)\n\nZauner, Michael (1997)\n\nu.a."
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
-  },
-  {
-    "objectID": "license.html#license-type",
-    "href": "license.html#license-type",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
-  },
-  {
-    "objectID": "contributing.html",
-    "href": "contributing.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "Describe how people can contribute to this project"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
