@@ -2,10 +2,7 @@
 title: "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg"
 subtitle: "Stationskirche auf der Wallfahrt nach Altötting"
 author: "Dr. Michael Zauner"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+format: html
 ---
 
 ## Einführung
@@ -22,13 +19,9 @@ Die Blütezeit der Marienwallfahrten war die Gegenreformation (17. Jahrhundert).
 
 Entlang uralter Pilgerwege aus dem Rottal nach Altötting stehen zahlreiche Kapellen. Atzberg war Rastplatz und zugleich eigenes Wallfahrtsziel.
 
-![Gemälde von 1754 mit Klause und tiefer gelegenem Fußweg](images/atzberg_gemaelde_1754.jpg)
-
-*Gemälde aus dem Jahr 1754 (seit 1980 verschollen).*
+![Gemälde von 1754 mit Klause und tiefer gelegenem Fußweg (seit 1980 verschollen)](images/atzberg_gemaelde_1754.jpg){width=60%}
 
 ![Ansicht von Süd-Ost mit Kirche und Mesnerhaus](images/atzberg_ansicht_suedost.jpeg)
-
-*Wallfahrtskirche mit Mesnerhaus, Blickrichtung Süd-Ost.*
 
 Der Name Atzberg geht vermutlich auf einen Siedler namens Azo zurück. Die Ritter „de Arzberg“ erscheinen im 12. Jahrhundert in Urkunden.
 
@@ -46,7 +39,7 @@ Seit 1984 gehört das Mesnerhaus der Familie Peindl, die es denkmalgerecht renov
 
 ### Balkonsymbole
 
-![Christliche Symbole am Holzbalkon](images/mesnerhaus_balkon_symbole.jpeg)
+![Christliche Symbole am Holzbalkon](images/mesnerhaus_balkon_symbole.jpeg){width=60%}
 
 - Tulpe – Offenheit für die Frohbotschaft  
 - Kreis – Ewigkeit Gottes  
@@ -57,13 +50,13 @@ Seit 1984 gehört das Mesnerhaus der Familie Peindl, die es denkmalgerecht renov
 
 ## Die Wallfahrtskirche (Baujahr 1680)
 
-![Bauurkunde 1680](images/bauurkunde_1680.jpeg)
+![Bauurkunde 1680](images/bauurkunde_1680.jpeg){width=60%}
 
 Der Bau ist durch eine Stiftungsurkunde belegt. Bauherr waren die Herren von Wening-Ingenheim auf Hirschhorn.
 
 ### Architektur
 
-![Ostfassade](images/ostfassade.jpeg)
+![Ostfassade](images/ostfassade.jpeg){width=60%}
 
 Die reich gegliederte Ostfassade besitzt:
 
@@ -116,7 +109,7 @@ Ein weiteres Motiv: Dank für Heimkehr aus dem Krieg 1870/71.
 
 ## Figuren und Details
 
-![Heiliger Sebastian](images/heiliger_sebastian.jpeg)
+![Heiliger Sebastian](images/heiliger_sebastian.jpeg){width=60%}
 
 Die Figur des hl. Sebastian steht an der Südwand.
 

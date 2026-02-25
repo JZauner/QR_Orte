@@ -10,3 +10,7 @@ format:
     toc: true
     toc-depth: 3
     lang: de
+    lightbox: true
+    
+language:
+  title-block-author-single: ""
