@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "contributing.html",
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
     "text": "Describe how people can contribute to this project"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
-  },
-  {
-    "objectID": "license.html#license-type",
-    "href": "license.html#license-type",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
   },
   {
     "objectID": "atzberg_wallfahrt.html",
@@ -103,5 +82,26 @@
     "title": "Wallfahrtskirche Mariä Himmelfahrt zu Atzberg",
     "section": "Literatur und Quellen",
     "text": "Literatur und Quellen\n\nWulzinger, Emil (1878)\n\nKarlinger, Hans (1923)\n\nStraßner, Johann Baptist (1893)\n\nSpirkner, Bartholomäus (1907)\n\nMader, Johann Ev. (1893)\n\nVisitationsberichte der Diözese Passau\n\nPeindl, Josef & Elisabeth (2018)\n\nHaller, Jörg (2007)\n\nZauner, Michael (1997)\n\nu.a."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "license.html#license-type",
+    "href": "license.html#license-type",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
