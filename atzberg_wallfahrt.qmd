@@ -31,11 +31,11 @@ Die Geschichte der Wallfahrt nach Atzberg hängt zum einen mit dem vorbeiführen
 
 ![Ansicht von Atzberg mit Wallfahrtskirche und früherem Mesnerhaus von Südosten; im Hintergrund Mitterskirchen (Foto: Siegfried Kerscher)](images/atzberg_ansicht_suedost.jpeg)
 
-Der Name Atzberg geht nach Emil Wulzinger vermutlich auf einen Siedler namens Azo zurück. Nach Hans Karlinger waren die Ritter „de Arzberg“ Zeitgenossen der Edlen von Mitterskirchen, die seit 1168 nachweisbar sind. Auf dem bewaldeten Hügel hinter der Kirche fanden sich noch 1878 schwache Spuren einer einstigen burgartigen Anlage. Die von 1120 bis 1210 beurkundeten Adligen waren nach Bartholomäus Spirkner Ministeriale der Grafen von Gern.
+Der Name Atzberg geht nach Emil Wulzinger[^wulzinger] vermutlich auf einen Siedler namens Azo zurück. Nach Hans Karlinger[^karlinger] waren die Ritter „de Arzberg“ Zeitgenossen der Edlen von Mitterskirchen, die seit 1168 nachweisbar sind. Auf dem bewaldeten Hügel hinter der Kirche fanden sich noch 1878 nach dem 1893 verstorbenen Mesner Johann Baptist Straßner[^strassner] schwache Spuren einer einstigen burgartigen Anlage. Die von 1120 bis 1210 beurkundeten Adligen waren nach Bartholomäus Spirkner[^spirkner] Ministeriale der Grafen von Gern.
 
 Im 12. Jahrhundert erscheinen die Ritter „de Atzberg“ auch in Urkunden der Klöster Au und Weltenburg. Letztmals findet sich das Geschlecht in diesen Klöstern in einer Tauschurkunde aus dem Jahr 1495. Im 17. Jahrhundert ging Atzberg auf das Geschlecht von Wening-Ingenheim mit Stammsitz in Hirschhorn über.
 
-1893 veröffentlichte Expositus Johann Ev. Mader ein elfseitiges Heft mit dem Titel „Die Wallfahrt zur schmerzhaften Mutter Gottes in Atzberg“. Verfasst hatte es der Atzberger Mesner Johann Baptist Straßner. Er war ein großer Verehrer der Gottesmutter von Altötting. An seinem Sterbetag, dem 26. April 1893, notierte Mader Straßners letzte Worte: „Jetzt ergreift mich ein recht starkes Verlangen, eine Sehnsucht, bald meinen gütigen Gott und die liebe Himmelsmutter zu sehen.“
+1893 veröffentlichte Expositus Johann Ev. Mader[^mader-johann] ein elfseitiges Heft mit dem Titel „Die Wallfahrt zur schmerzhaften Mutter Gottes in Atzberg“. Verfasst hatte es der Atzberger Mesner Johann Baptist Straßner. Er war ein großer Verehrer der Gottesmutter von Altötting. An seinem Sterbetag, dem 26. April 1893, notierte Mader Straßners letzte Worte: „Jetzt ergreift mich ein recht starkes Verlangen, eine Sehnsucht, bald meinen gütigen Gott und die liebe Himmelsmutter zu sehen.“
 
 Die Entwicklung der Wallfahrtskirche Atzberg ist eng mit der Entstehung einer Klause und später des Mesnerhauses verbunden.
 
@@ -51,7 +51,7 @@ In dieser kleinen Kapelle befand sich der Überlieferung nach ein „Schmerzhaft
 
 Nach dem Handbuch des Bistums Passau wurde 1643, nach dem Dreißigjährigen Krieg, mit Genehmigung der Grafen eine hölzerne Einsiedelei mit Klausnerkapelle errichtet. Da die Kapelle stark mit Moos bewachsen war, nannten vorbeiziehende Wallfahrer sie „Mieskirchlein“ oder „Mooskirchlein“. In der Klausur durften Arzneimittel zubereitet und verabreicht werden.
 
-Der Visitationsbericht von 1672 berichtet vom Einsiedler Georg Sennhuber: Er war 47 Jahre alt, versah mit einem krummen Bauernknecht die Kapelle, lag jede Nacht in einer Totenbahre, trank kein Bier und fiel niemandem durch Sammeln zur Last. Nach dem Bau der heutigen Kapelle im Jahr 1680 war Sennhuber vermutlich auch der erste Mesner. In diese Zeit fällt wohl auch der ursprüngliche Bau des Mesnerhauses; die einfache Einsiedelei wurde dabei vermutlich aufgegeben.
+Der Visitationsbericht[^visitationsbericht] von 1672 berichtet vom Einsiedler Georg Sennhuber: Er war 47 Jahre alt, versah mit einem krummen Bauernknecht die Kapelle, lag jede Nacht in einer Totenbahre, trank kein Bier und fiel niemandem durch Sammeln zur Last. Nach dem Bau der heutigen Kapelle im Jahr 1680 war Sennhuber vermutlich auch der erste Mesner. In diese Zeit fällt wohl auch der ursprüngliche Bau des Mesnerhauses; die einfache Einsiedelei wurde dabei vermutlich aufgegeben.
 
 Nach Sennhubers Tod im Jahr 1693 versah der 34-jährige Frater Lambert bis 1697 seinen Dienst. Anfang des 19. Jahrhunderts wird als letzter Eremit der 24-jährige Frater Christoph Frühgruber genannt, der bis zur Säkularisation 1803 in Atzberg blieb.
 
@@ -72,7 +72,7 @@ Pfarrer Johann Ev. Mader, seit 1893 Expositus und von 1897 bis 1927 Pfarrer in M
 
 ![Bauurkunde 1680 aus dem Bistumsarchiv Passau](images/bauurkunde_1680.jpeg){width=60%}
 
-Der Bau der heutigen Wallfahrtskirche ist genau belegt. Nach einer Stiftungsurkunde ließen die Herren von Wening-Ingenheim auf Hirschhorn die Kirche im Jahr 1680 erbauen; dazu liegt auch eine Hauptbaurechnung vor. Beschrieben wurde die Kirche von verschiedenen Kunstkennern, aber auch von einfachen Leuten: unter anderem vom Mesner Johann Baptist Straßner, von Expositus und späterem Pfarrer von Mitterskirchen Johann Mader, vom Kunstreferenten der Diözese Passau Felix Mader und von Hans Karlinger, der 1923 die Kunstdenkmäler des Bezirksamtes Eggenfelden beschrieb. Auch Dr. Jörg Haller befasste sich 2007 im Auftrag des Bayerischen Rundfunks für das „12-Uhr-Läuten“ mit der Wallfahrtskapelle.
+Der Bau der heutigen Wallfahrtskirche ist genau belegt. Nach einer Stiftungsurkunde ließen die Herren von Wening-Ingenheim auf Hirschhorn die Kirche im Jahr 1680 erbauen; dazu liegt auch eine Hauptbaurechnung vor. Beschrieben wurde die Kirche von verschiedenen Kunstkennern, aber auch von einfachen Leuten: unter anderem vom Mesner Johann Baptist Straßner, von Expositus und späterem Pfarrer von Mitterskirchen Johann Mader, vom Kunstreferenten der Diözese Passau Felix Mader[^mader-felix] und von Hans Karlinger, der 1923 die Kunstdenkmäler des Bezirksamtes Eggenfelden beschrieb. Auch Dr. Jörg Haller[^haller] befasste sich 2007 im Auftrag des Bayerischen Rundfunks für das „12-Uhr-Läuten“ mit der Wallfahrtskapelle.
 
 Die geschichtliche Situation zur Erbauungszeit erklärt die Motivation der Adeligen Wening-Ingenheim, in Hirschhorn und Atzberg eine Muttergotteskirche zu fördern. Eine Generation nach dem Ende des Dreißigjährigen Krieges und in der Zeit der Türkenbedrohung, die 1683 bei Wien von christlichen Heeren zurückgeschlagen wurde, suchte die Bevölkerung Trost in gut zu Fuß erreichbaren Gotteshäusern.
 
@@ -84,7 +84,7 @@ Der barocke Kirchenbau blieb bis heute im Wesentlichen unverändert. Einschließ
 
 1835 errichtete die Patrimonial-Stiftung Wening-Ingenheim von Hirschhorn einen Zufahrtsweg und eine Treppe zur Kirche. Nach dem umfangreichen Straßenbau in den 1830er-Jahren liegt die Kirche heute tiefer als die Straße.
 
-Die reich gegliederte Ostfassade besitzt:
+Dr. Michael Zauner[^zauner] beschreibt die reich gegliederte Ostfassade mit:
 
 - einen gesprengten Giebel über dem Portal,
 - drei barocke Fensternischen, von denen nur die mittlere ihrem Zweck dient,
@@ -139,11 +139,17 @@ Diese Bilder stammen von dem begnadeten Maler Michael Zattler aus Wurmannsquick.
 
 ---
 
-## Figuren, Details und Renovierungen
+## Figuren und Details
 
 ![Heiliger Sebastian (Foto: Siegfried Kerscher)](images/heiliger_sebastian.jpeg){width=60%}
 
 An der Nordwand steht eine harmonisch geformte Figur des hl. Sebastian. Nicht übersehen sollte man auch das Marmorpflaster aus der Erbauungszeit, das viele Tritte unserer Vorfahren und Wallfahrer erlebt hat. Die außerordentlich gut erhaltene Bausubstanz und Inneneinrichtung beweisen, dass den etwa elf Generationen vor uns kein Opfer zu groß war, dieses Kleinod zu erhalten.
+
+Rechts neben der Kirche befand sich noch bis ins 18. Jahrhundert ein Bierkeller, wohl für die Wallfahrer bestimmt. Wegen Streitigkeiten zwischen den Wirten von Mitterskirchen und Reischach ließ das Bezirksgericht Eggenfelden den Bierausschank schließen. Auf der rechten Kircheninnenseite zeigt eine flache Nische noch, dass hier ein direkter Ausgang zum Bierkeller bestand.
+
+---
+
+## Renovierungen
 
 Belegt sind Renovierungen in den Jahren 1866, 1930, 1980 bis 1984 sowie 2025. Im Jahr 2025 erfolgten eine umfangreiche Dachstuhl- und Innenrenovierung mit bemerkenswerten ehrenamtlichen Leistungen unter der Leitung von Dipl.-Ing. Josef Peindl.
 
@@ -152,8 +158,6 @@ Belegt sind Renovierungen in den Jahren 1866, 1930, 1980 bis 1984 sowie 2025. Im
 ![Dachfußpunkte vor der Instandsetzung 2025 (Foto: Josef Peindl)](images/Abb13_Dachfußpunkte.jpg){width=60%}
 
 ![Dachfußpunkte nach der Instandsetzung 2025 (Foto: Josef Peindl)](images/Abb14_nachSanierung.jpg){width=60%}
-
-Rechts neben der Kirche befand sich noch bis ins 18. Jahrhundert ein Bierkeller, wohl für die Wallfahrer bestimmt. Wegen Streitigkeiten zwischen den Wirten von Mitterskirchen und Reischach ließ das Bezirksgericht Eggenfelden den Bierausschank schließen. Auf der rechten Kircheninnenseite zeigt eine flache Nische noch, dass hier ein direkter Ausgang zum Bierkeller bestand.
 
 ---
 
@@ -176,6 +180,24 @@ Am Kircheneingang gibt es seit 2016 einen Pilgerstempel, der von Wallfahrerinnen
 ---
 
 ## Literatur und Quellen
+
+[^wulzinger]: Wulzinger
+
+[^karlinger]: Karlinger
+
+[^strassner]: Straßner
+
+[^spirkner]: Spirkner
+
+[^mader-johann]: Mader
+
+[^visitationsbericht]: Visitationsbericht
+
+[^mader-felix]: Mader Felix
+
+[^haller]: Haller
+
+[^zauner]: Zauner
 
 1. Wulzinger, Emil: *Beschreibung des Bezirksamtes Eggenfelden*, 1878
 2. Karlinger, Hans: *Die Kunstdenkmäler von Niederbayern*, 1923
